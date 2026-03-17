@@ -1,0 +1,18 @@
+# Environnement virtuel
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache FastF1
+cache/
+
+# Fichiers système
+.DS_Store
+*.log
+
+# VSCode
+.vscode/
+EOF
