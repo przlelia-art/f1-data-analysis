@@ -4,9 +4,15 @@ Ce projet est une analyse des données de Max Verstappen et Charles Leclerc lors
 
 ## 🏎️ Analyses disponibles
 
+### GP de Bahreïn 2024
+
 - **Comparaison des temps au tour** - Évolution des performances des deux pilotes tout au long de la course.
 - **Stratégie des pneus** - Visualisation des composés utilisés (SOFT/HARD) et leur impact sur les temps au tour.
 - **Analyse de la télémétrie en qualifications** - Comparaison de la vitesse de Verstappen et Leclerc mètre par mètre sur leur tour le plus rapide.
+
+### GP de Monza 2024
+
+- **Comparaison de vitesses maximales** - Analyse des vitesses sur ligne droite de Verstappen, Leclerc et Norris
 
 ## 🛠️ Technologies utilisées
 
